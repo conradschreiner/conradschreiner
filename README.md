@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @conradschreiner
-- 👀 I’m interested in python, SQL and data analytics
-- 🌱 I’m currently focusing on expanding my capabilities in python developement and SQL
-- 💞️ I’m looking to collaborate on data related projects - specifically in jupyter notebooks
-- 📫 How to reach me conradschrei@gmail.com
+- I currently work as a Data Analyst focused on data quality and normalization issues on a enterprise level database at a large corporation.
+- I also just recently began my first quarter of Oregon State University's Postbacc Computer Science Program. Most of my work here in the short term here will involve course work related to that degree.
+- Python and SQL are my two main skillsets but I'm excited to learn more as I progress through my degree and my career in general!
