@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @conradschreiner
 - I currently work as a Data Analyst focused on data quality and normalization issues on a enterprise level database at a large corporation.
 - I also just recently began my first quarter of Oregon State University's Postbacc Computer Science Program. Most of my work here in the short term here will involve course work related to that degree.
-- Python and SQL are my two main skillsets but I'm excited to learn more as I progress through my degree and my career in general!
+- Python and SQL are my two main skillsets but I'm excited to learn more as I progress through my degree and career in general!
